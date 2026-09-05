@@ -1,0 +1,12 @@
+{
+  "name": "veterinary-portal",
+  "version": "1.0.0",
+  "description": "Veterinarian Portal (Login 2) - Animal Health Surveillance System",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -l 3000 ."
+  },
+  "keywords": ["veterinary", "healthcare", "surveillance", "sih"],
+  "author": "Smart India Hackathon Team",
+  "license": "ISC"
+}
